@@ -161,8 +161,8 @@ int main(int argc, char* argv[]) {
 
     int opcao;
     do {
-        std::cout << "\n1 - Imprimir Lista de Adjacência\n";
-        std::cout << "2 - Imprimir Matriz de Adjacência\n";
+        std::cout << "\n1 - Imprimir Lista de Adjacencia\n";
+        std::cout << "2 - Imprimir Matriz de Adjacencia(Não recomendado para grafos grandes)\n";
         std::cout << "3 - Testar DFS\n";
         std::cout << "4 - Imprimir Caminho\n";
         std::cout << "5 - Sair\n";
